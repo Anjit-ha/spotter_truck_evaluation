@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Truck Fleet Evaluation System - Quick Start Guide
 
 ## Overview
@@ -328,3 +329,6 @@ Decision:
 ---
 
 *For detailed metrics explanations and decision frameworks, see TRUCK_EVALUATION_GUIDE.md*
+=======
+# spotter_truck_evaluation
+>>>>>>> a74cc01e84e39040a5a0f6d6dda5e2c40da3ad45
